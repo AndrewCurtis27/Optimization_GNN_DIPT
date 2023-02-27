@@ -5,7 +5,7 @@
 Download zip file. It contains .ipynb code file to be run, "dwpt_v5" folder with simulator network parameters, and empty "gp" folder for storing trained network parameters for later plotting and analysis. Open .ipynb file and run.
 
 ## Make sure the two following are present:
-The subfolder "dwpt_v5" or its contents is present in your working directory, it has the weights for the simulator network. 
+The subfolder "dwpt_v5"  is present in your working directory, it has the weights for the simulator network. 
 
 Subfolder in your working directory named "gp" is present, an empty one is included in the zip file, or create your own. This is to store the neural network model for later plotting. 
 
